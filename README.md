@@ -1,9 +1,13 @@
 # Http Foxes (Front)
+
 A simple project to document and demonstrate the use of an API
 
 ![image](https://github.com/SamuelsonPajeu/http-foxes-front/assets/79151331/abc8d569-715c-4f71-94c7-076da25cdf1e)
 
 ------------------------------------------------------------------------------------------
+## Access
+- Live Site URL: https://httpfoxes.netlify.app
+
 ## Install
 A simple .html file, just open it and you're ready to go.
 
