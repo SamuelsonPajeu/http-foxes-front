@@ -5,7 +5,7 @@ A simple project to document and demonstrate the use of an API
 
 ------------------------------------------------------------------------------------------
 ## Install
-Just a simple .html file, just open it and you're ready to go.
+A simple .html file, just open it and you're ready to go.
 
 ## Usage
 - ENDPOINT: https://http-foxes-api.onrender.com/foxes
