@@ -1,4 +1,5 @@
 # Http Foxes (Front)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2963602a-9c45-4901-9cea-59d8ee662460/deploy-status)](https://app.netlify.com/sites/httpfoxes/deploys)
 
 A simple project to document and demonstrate the use of an API
 
