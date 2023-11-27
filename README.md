@@ -1,7 +1,7 @@
 # Http Foxes (Front)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2963602a-9c45-4901-9cea-59d8ee662460/deploy-status)](https://app.netlify.com/sites/httpfoxes/deploys)
 
-A simple project to document and demonstrate the use of an API
+A simple project to document and demonstrate the use of an [API](https://github.com/SamuelsonPajeu/http_foxes_api)
 
 ![image](https://github.com/SamuelsonPajeu/http-foxes-front/assets/79151331/abc8d569-715c-4f71-94c7-076da25cdf1e)
 
@@ -10,7 +10,7 @@ A simple project to document and demonstrate the use of an API
 - Live Site URL: https://httpfoxes.netlify.app
 
 ## Install
-A simple .html file, just open it and you're ready to go.
+A plain .html file, just open `index.html` and you're ready to go.
 
 ## Usage
 - ENDPOINT: https://http-foxes-api.onrender.com/foxes
